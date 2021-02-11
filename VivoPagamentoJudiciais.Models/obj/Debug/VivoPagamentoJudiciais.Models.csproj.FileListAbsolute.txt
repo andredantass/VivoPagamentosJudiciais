@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\bin\Debug\VivoPagamentoJudiciais.Models.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\bin\Debug\VivoPagamentoJudiciais.Models.pdb
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\obj\Debug\VivoPagamentoJudiciais.Models.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\obj\Debug\VivoPagamentoJudiciais.Models.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\obj\Debug\VivoPagamentoJudiciais.Models.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Models\obj\Debug\VivoPagamentoJudiciais.Models.pdb

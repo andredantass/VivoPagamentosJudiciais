@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.deps.json
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.pdb
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.pdb
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.LogsProcess.resources
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.Variables.resources
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.AssemblyInfo.cs
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.csproj.CopyComplete
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utilities\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Utilities.pdb

@@ -1,0 +1,13 @@
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\bin\Debug\netstandard2.0\Planilha\Planilha Automação - Manual Fundo Fixo.xlsx
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\bin\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.deps.json
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\bin\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\bin\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.pdb
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.LogsProcess.resources
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.Variables.resources
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.AssemblyInfo.cs
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Utility\obj\Debug\netstandard2.0\VivoPagamentoJudiciais.Utility.pdb

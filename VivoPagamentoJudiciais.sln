@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivoPagamentoJudiciais", "VivoPagamentoJudiciais\VivoPagamentoJudiciais.csproj", "{6ACB0F0E-1018-4542-AF6D-16106BC5C31C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivoPagamentoJudiciais.Model", "VivoPagamentoJudiciais.Model\VivoPagamentoJudiciais.Model.csproj", "{D599312A-00FE-4074-9E3B-0B33E403C590}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivoPagamentoJudiciais.Data", "VivoPagamentoJudiciais.Data\VivoPagamentoJudiciais.Data.csproj", "{0F858296-8505-4C06-BA75-7DE8297E3C31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivoPagamentoJudiciais.Utilities", "VivoPagamentoJudiciais.Utilities\VivoPagamentoJudiciais.Utilities.csproj", "{6247CD96-08CD-4674-A362-17BA5F451E5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivoPagamentoJudiciais.Service", "VivoPagamentoJudiciais.Service\VivoPagamentoJudiciais.Service.csproj", "{94A49B0D-E0F8-4BA6-8F2B-42A63956CF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivoPagamentoJudiciais.Services", "VivoPagamentoJudiciais.Services\VivoPagamentoJudiciais.Services.csproj", "{58586E59-13E1-4980-A9EF-B5315894A458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivoPagamentoJudiciais.Utility", "VivoPagamentoJudiciais.Utility\VivoPagamentoJudiciais.Utility.csproj", "{79475B44-8986-4C8A-BF0A-A239C24BE551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivoPagamentoJudiciais.ConsoleApp", "VivoPagamentoJudiciais.Console\VivoPagamentoJudiciais.ConsoleApp.csproj", "{EFA4FCE6-FFBC-4B86-841A-48EE0AFBBDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivoPagamentoJudiciais.Repository", "VivoPagamentoJudiciais.Repository\VivoPagamentoJudiciais.Repository.csproj", "{EE0BFA72-EF59-4324-B4F4-D480758BE89D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivoPagamentoJudiciais.Models", "VivoPagamentoJudiciais.Models\VivoPagamentoJudiciais.Models.csproj", "{CCF75F17-06F1-4B95-A946-D91DE04A7B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACB0F0E-1018-4542-AF6D-16106BC5C31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACB0F0E-1018-4542-AF6D-16106BC5C31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACB0F0E-1018-4542-AF6D-16106BC5C31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACB0F0E-1018-4542-AF6D-16106BC5C31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D599312A-00FE-4074-9E3B-0B33E403C590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D599312A-00FE-4074-9E3B-0B33E403C590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D599312A-00FE-4074-9E3B-0B33E403C590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D599312A-00FE-4074-9E3B-0B33E403C590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F858296-8505-4C06-BA75-7DE8297E3C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F858296-8505-4C06-BA75-7DE8297E3C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F858296-8505-4C06-BA75-7DE8297E3C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F858296-8505-4C06-BA75-7DE8297E3C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6247CD96-08CD-4674-A362-17BA5F451E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6247CD96-08CD-4674-A362-17BA5F451E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6247CD96-08CD-4674-A362-17BA5F451E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6247CD96-08CD-4674-A362-17BA5F451E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A49B0D-E0F8-4BA6-8F2B-42A63956CF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A49B0D-E0F8-4BA6-8F2B-42A63956CF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A49B0D-E0F8-4BA6-8F2B-42A63956CF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A49B0D-E0F8-4BA6-8F2B-42A63956CF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58586E59-13E1-4980-A9EF-B5315894A458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58586E59-13E1-4980-A9EF-B5315894A458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58586E59-13E1-4980-A9EF-B5315894A458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58586E59-13E1-4980-A9EF-B5315894A458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79475B44-8986-4C8A-BF0A-A239C24BE551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79475B44-8986-4C8A-BF0A-A239C24BE551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79475B44-8986-4C8A-BF0A-A239C24BE551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79475B44-8986-4C8A-BF0A-A239C24BE551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA4FCE6-FFBC-4B86-841A-48EE0AFBBDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA4FCE6-FFBC-4B86-841A-48EE0AFBBDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA4FCE6-FFBC-4B86-841A-48EE0AFBBDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA4FCE6-FFBC-4B86-841A-48EE0AFBBDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0BFA72-EF59-4324-B4F4-D480758BE89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0BFA72-EF59-4324-B4F4-D480758BE89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0BFA72-EF59-4324-B4F4-D480758BE89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0BFA72-EF59-4324-B4F4-D480758BE89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF75F17-06F1-4B95-A946-D91DE04A7B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF75F17-06F1-4B95-A946-D91DE04A7B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF75F17-06F1-4B95-A946-D91DE04A7B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF75F17-06F1-4B95-A946-D91DE04A7B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C36F15-0EDA-498A-AB59-F27CB2F175A7}
+	EndGlobalSection
+EndGlobal

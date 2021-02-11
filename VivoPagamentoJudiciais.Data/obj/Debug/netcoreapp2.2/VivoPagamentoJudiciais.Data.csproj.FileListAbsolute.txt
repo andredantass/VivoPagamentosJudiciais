@@ -1,0 +1,15 @@
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\bin\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.deps.json
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\bin\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.dll
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.AssemblyInfo.cs
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\bin\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.pdb
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.dll
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.pdb
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\bin\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Model.dll
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\bin\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Model.pdb
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.csproj.CopyComplete
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.Parameters.resources
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.Querys.resources
+C:\Users\mathe\source\repos\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Data\obj\Debug\netcoreapp2.2\VivoPagamentoJudiciais.Data.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.deps.json
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\bin\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.pdb
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\bin\Debug\netcoreapp3.0\Interop.AutoItX3Lib.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\Interop.AutoItX3Lib.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.csproj.ResolveComReference.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.AssemblyInfo.cs
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.dll
+C:\Users\andre\Documents\Clientes\Atento\RoboAutomacao\VivoPagamentoJudiciais\VivoPagamentoJudiciais.Model\obj\Debug\netcoreapp3.0\VivoPagamentoJudiciais.Model.pdb
