@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6MLcQIo1H5JAfRrXWremu4k1kWGF01hmBL3zywKAJihLvD38IpSQvWMPfl9dso8N7Yr7ui0sv6NgfZ3PNgdmqQ==",
+  "dgSpecHash": "JFPTdEmLufPzwCqFLYoJvfAAJkGn8elT62AOjnNyRzko638aeb92jjRdQ5X4mZ8mGnCHAiZ+hEW1vyU5Qa0S3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -24,7 +24,7 @@ namespace VivoPagamentoJudiciais.Services.Core
             if (Driver.driver == null)
             {
                 Driver.driver = new FirefoxDriver();
-                Driver.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(40);
+                Driver.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             }
         }
         public static void FillAdquiraLoginForm(string username, string password)
@@ -33,77 +33,77 @@ namespace VivoPagamentoJudiciais.Services.Core
             objAdquira.fieldUserName.SendKeys(username);
             objAdquira.fieldPassword.SendKeys(password);
             objAdquira.btnLogin.Click();
-
         }
 
         public static void FillAdquiraFaturaInternaForm()
         {
-            AdquiraFaturaInternaPage objAdquiraFaturaInternaPage = new AdquiraFaturaInternaPage();
-            if (objAdquiraFaturaInternaPage.fieldTomador.Displayed)
-                objAdquiraFaturaInternaPage.fieldTomador.SendKeys(Config.AdquiraPage.FaturaInternaForm.Tomador);
+            WebDriverWait wait = new WebDriverWait(Driver.driver, TimeSpan.FromSeconds(10));
 
+            AdquiraFaturaInternaPage objAdquiraFaturaInternaPage = new AdquiraFaturaInternaPage();
+
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[1]/div[2]/div/div/div[3]/div/div/div[2]/input")));
+            objAdquiraFaturaInternaPage.fieldTomador.SendKeys(Config.AdquiraPage.FaturaInternaForm.Tomador);
             objAdquiraFaturaInternaPage.fieldTomador.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldTomador.SendKeys(Keys.Return);
 
-            Thread.Sleep(2000);
             objAdquiraFaturaInternaPage.fieldSiglaAreaGestora.SendKeys(Config.AdquiraPage.FaturaInternaForm.SiglaAreaGestora);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldNumeroFaturaInterna.SendKeys(Config.AdquiraPage.FaturaInternaForm.NumeroFaturaInterna);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldDataVencimento.SendKeys(Config.AdquiraPage.FaturaInternaForm.DataVencimento);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldNumeroDocumentoSuporte.SendKeys(Config.AdquiraPage.FaturaInternaForm.NumeroDocumentoSuporte);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldSequencial.SendKeys(Config.AdquiraPage.FaturaInternaForm.NumeroSequencial);
             Thread.Sleep(2000);
-            if (objAdquiraFaturaInternaPage.fieldTipoDocumentoSAP.Displayed)
-                objAdquiraFaturaInternaPage.fieldTipoDocumentoSAP.SendKeys(Config.AdquiraPage.FaturaInternaForm.TipoDocumentoSAP);
 
-
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div[2]/div/div/div[3]/div[4]/div[1]/div[2]/input")));
+            objAdquiraFaturaInternaPage.fieldTipoDocumentoSAP.SendKeys(Config.AdquiraPage.FaturaInternaForm.TipoDocumentoSAP);
             objAdquiraFaturaInternaPage.fieldTipoDocumentoSAP.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldTipoDocumentoSAP.SendKeys(Keys.Return);
-
             Thread.Sleep(2000);
+
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div[2]/input")));
             objAdquiraFaturaInternaPage.fieldAreaReclamacao.SendKeys(Config.AdquiraPage.FaturaInternaForm.AreaReclamacao);
             objAdquiraFaturaInternaPage.fieldAreaReclamacao.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldAreaReclamacao.SendKeys(Keys.Return);
-
             Thread.Sleep(2000);
+
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div[2]/div/div/div[3]/div[5]/div[1]/div[2]/input")));
             objAdquiraFaturaInternaPage.fieldTipoNotaFiscalAnaliseTributaria.SendKeys(Config.AdquiraPage.FaturaInternaForm.TipoNotaFiscalAnaliseTributaria);
             objAdquiraFaturaInternaPage.fieldTipoNotaFiscalAnaliseTributaria.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldTipoNotaFiscalAnaliseTributaria.SendKeys(Keys.Return);
-
             Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldNomeFavorecido.SendKeys(Config.AdquiraPage.FaturaInternaForm.NomeFavorecido);
 
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldCNPJCPFFavorecido.SendKeys(Config.AdquiraPage.FaturaInternaForm.CPFCNPJFavorecido);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldCodigoSAPFornecedor.SendKeys(Config.AdquiraPage.FaturaInternaForm.CodigoSAPFornecedor);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldEmpresa.SendKeys(Config.AdquiraPage.FaturaInternaForm.Empresa);
 
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldComarca.SendKeys(Config.AdquiraPage.FaturaInternaForm.Comarca);
-            Thread.Sleep(2000);
+
             objAdquiraFaturaInternaPage.fieldCodigoOcorrencia.SendKeys(Config.AdquiraPage.FaturaInternaForm.CodigoOcorrencia);
-
-
             Thread.Sleep(2000);
-            if (objAdquiraFaturaInternaPage.fieldFormaPagamento.Displayed)
-                objAdquiraFaturaInternaPage.fieldFormaPagamento.SendKeys(Config.AdquiraPage.FaturaInternaForm.FormaPagamento);
+
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[4]/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/input")));
+            objAdquiraFaturaInternaPage.fieldFormaPagamento.SendKeys(Config.AdquiraPage.FaturaInternaForm.FormaPagamento);
             objAdquiraFaturaInternaPage.fieldFormaPagamento.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldFormaPagamento.SendKeys(Keys.Return);
-
-
             Thread.Sleep(2000);
+
+            wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[1]/div/div[2]/div[2]/div/div[3]/div[1]/div[4]/div[2]/div/div/div[3]/div[1]/div[2]/div[3]/input")));
             objAdquiraFaturaInternaPage.fieldTipoPagamento.SendKeys(Config.AdquiraPage.FaturaInternaForm.TipoPagamento);
             objAdquiraFaturaInternaPage.fieldTipoPagamento.SendKeys(Keys.Enter);
             objAdquiraFaturaInternaPage.fieldTipoPagamento.SendKeys(Keys.Return);
 
             objAdquiraFaturaInternaPage.fieldDescricaoPagamento.SendKeys(Config.AdquiraPage.FaturaInternaForm.DescricaoPagamento);
-
-
+            Thread.Sleep(1000);
+            
         }
         public static void FillVivoPagamentoLoginForm(string username, string password)
         {

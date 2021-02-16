@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj": {}
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj",
         "projectName": "VivoPagamentoJudiciais.Data",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,9 +26,10 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj"
               }
             }
           }
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -73,50 +75,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj",
         "projectName": "VivoPagamentoJudiciais.Models",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj"
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
         "projectName": "VivoPagamentoJudiciais.Model",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,6 +116,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -139,6 +128,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -149,55 +139,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj",
         "projectName": "VivoPagamentoJudiciais.Repository",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj"
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj",
         "projectName": "VivoPagamentoJudiciais.Services",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Models\\VivoPagamentoJudiciais.Models.csproj"
               },
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Repository\\VivoPagamentoJudiciais.Repository.csproj"
               },
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj"
               }
             }
           }
@@ -207,17 +183,17 @@
         "net472": {}
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj",
         "projectName": "VivoPagamentoJudiciais.Service",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -229,12 +205,13 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj"
               },
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj"
               }
             }
           }
@@ -247,6 +224,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "AutoItX.Dotnet": {
               "target": "Package",
@@ -295,40 +273,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj",
         "projectName": "VivoPagamentoJudiciais.Utilities",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\VivoPagamentoJudiciais.Utilities.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -340,9 +304,10 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Model\\VivoPagamentoJudiciais.Model.csproj"
               }
             }
           }
@@ -355,6 +320,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
@@ -379,40 +345,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj",
         "projectName": "VivoPagamentoJudiciais.Utility",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Utility\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\VivoPagamentoJudiciais.Utility.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -424,6 +376,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -435,6 +388,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "EPPlus.Core": {
               "target": "Package",
@@ -457,21 +411,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj": {
+    "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj",
+        "projectUniqueName": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj",
         "projectName": "VivoPagamentoJudiciais",
-        "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais\\obj\\",
+        "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.csproj",
+        "packagesPath": "C:\\Users\\escritorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\escritorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -483,15 +437,16 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Data\\VivoPagamentoJudiciais.Data.csproj"
               },
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Services\\VivoPagamentoJudiciais.Services.csproj"
               },
-              "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj": {
-                "projectPath": "C:\\Users\\andre\\Documents\\Clientes\\Atento\\RoboAutomacao\\VivoPagamentoJudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj"
+              "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj": {
+                "projectPath": "C:\\Users\\escritorio\\Documents\\Workspace\\VivoPagamentosJudiciaisRobot\\vivopagamentosjudiciais\\VivoPagamentoJudiciais.Service\\VivoPagamentoJudiciais.Service.csproj"
               }
             }
           }
@@ -504,6 +459,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -576,24 +532,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.3, 3.0.3]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -602,7 +540,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
